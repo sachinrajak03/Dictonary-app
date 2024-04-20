@@ -4,7 +4,7 @@
 Welcome to the Dictionary App! This project is a simple yet powerful tool for exploring the depths of language, built using HTML, CSS, JavaScript, and integrated with the DictionaryAPI.dev API.
 ## Live Demo
 
-Here is the live domo of project[https://sachinrajak03.github.io/Dictonary-app/ ]
+Here is the live domo of project  [https://sachinrajak03.github.io/Dictonary-app/ ]
 
 
 
