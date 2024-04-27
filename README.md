@@ -17,7 +17,8 @@ Here is the live domo of project      [https://sachinrajak03.github.io/Dictonary
 - HTML
 - CSS
 - JavaScript
-- DictionaryAPI.dev API
+- DictionaryAPI.dev API.
+  
 ## Deployment
 
 You can deploy this web app on any web server or host it on platforms like GitHub Pages for easy access. Simply upload the HTML, CSS, and JavaScript files to your chosen hosting provider.
